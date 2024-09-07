@@ -1,0 +1,17 @@
+p.odd {
+    background-color: hsl(0, 100%, 85%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div.two {
+    color: hsl(231, 78%, 58%);
+    font-size: 36px;
+}
+p#three {
+    font-size: 24px;
+}
+div.four {
+    background-color: hsl(135, 100%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
